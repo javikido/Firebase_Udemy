@@ -1,0 +1,40 @@
+
+{
+  "project_info": {
+    "project_number": "863719373082",
+    "project_id": "fir-cursoudemy-c3d10",
+    "storage_bucket": "fir-cursoudemy-c3d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863719373082:android:9044907ffb9060c8c3d4a3",
+        "android_client_info": {
+          "package_name": "com.example.udemyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863719373082-3henr9i1suap5fio2hmet1eo0hopglq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDpUAaABGbZGdhAsWz4xqSqn1RrR3-g3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863719373082-3henr9i1suap5fio2hmet1eo0hopglq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
